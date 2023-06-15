@@ -12,10 +12,7 @@ warnings.filterwarnings("ignore")
 
 # %%
 # smb session
-SERVER = "cdh1files.epfl.ch"
-USERNAME = "achiche" # your username here
-PASSWORD = "cssGOSSIPcss-12" # your password here
-PATH = r"//cdh1files.epfl.ch/LHST/CROSS"
+
 LOCAL_PATH = r"Data"
 
 # smb connection

@@ -19,7 +19,7 @@ Three different methods were explored for the task: LSTM, SGT, and SPM. LSTM was
 unsuitable due to its high sensitivity to sequence length. SGT performed well on smaller datasets but
 led to an excessive number of clusters when applied to larger data. SPM emerged as the most effective,
 scaling well and resulting in eight behaviours that could be related to typical user behaviour
-![No image](.graphs/pattern_features_clustering/action_distribution.png)
+![No image](graphs/pattern_features_clustering/action_distribution.png)
 ## Instructions
 
 This guide provides instructions for running the project's scripts to download, preprocess, and analyze data. Follow the steps below to get started.
